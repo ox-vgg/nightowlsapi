@@ -1,2 +1,2 @@
-# nightowlsapi
+# NightOwls API
 
