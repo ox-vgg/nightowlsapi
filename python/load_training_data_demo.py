@@ -13,7 +13,7 @@ image_directory = '/nightowls/images'
 
 cocoGt = COCO(annFile)
 imgIds = sorted(cocoGt.getImgIds())
-print('There are %d images in the data set' % len(imgIds))
+print('There are %d images in the training set' % len(imgIds))
 
 annotations = cocoGt.getAnnIds()
 print('There are %d annotations in the training set' % len(annotations))
