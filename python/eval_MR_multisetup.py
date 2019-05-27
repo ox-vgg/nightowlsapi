@@ -4,8 +4,6 @@ import time
 from collections import defaultdict
 # from . import mask as maskUtils
 import copy
-import matplotlib.pyplot as plt
-import scipy.io as sio
 
 class COCOeval:
     # Interface for evaluating detection on the Microsoft COCO dataset.
