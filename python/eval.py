@@ -2,7 +2,7 @@ from coco import COCO
 from eval_MR_multisetup import COCOeval
 
 # Ground truth
-annFile = 'D:/pedestrians/annotations/nightowls_validation.json'
+annFile = '/nightowls/annotations/nightowls_validation.json'
 
 # Detections
 resFile = '../sample-Faster-RCNN-nightowls_validation.json'
