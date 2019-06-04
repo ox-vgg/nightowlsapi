@@ -10,6 +10,8 @@ The data format/API is fully compatible with MS-COCO (http://cocodataset.org/)
 
 `eval.py` - pedestrian detection evaluation
 
+`sample-Faster-RCNN-nightowls_validation.json` - sample Faster RCNN pedestrian detector output on the validation set
+
 
 
 ## 2) Matlab
