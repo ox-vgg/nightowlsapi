@@ -14,7 +14,7 @@ The data format/API is fully compatible with MS-COCO (http://cocodataset.org/)
 
 
 
-## 2) Matlab
+## 2) Caltech Pedestrians format (Matlab)
 The data format is compatible with Caltech Pedestrians dataset (http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
 
 `demo.m` - script demonstrating loading the dataset
@@ -22,6 +22,8 @@ The data format is compatible with Caltech Pedestrians dataset (http://www.visio
 `matDetectionsToJson.m` - convert detections in .mat format into a JSON format (MSCOCO compatible)
 
 `txtDetectionsToJson.m` - convert detections in .txt format into a JSON format (MSCOCO compatible)
+
+Note that we provide the evaluation code only in Python (above).
 
 ## License
 
